@@ -44,8 +44,6 @@ p, li {
   line-height: 1.5;
 }
 
-/* || header layout */
-
 header {
   margin-bottom: 10px;
   display: flex;
@@ -103,8 +101,6 @@ nav a, nav span {
   color: white;
   text-shadow: 2px 2px 10px black;
 }
-
-/* || main layout */
 
 main {
   display: flex;
